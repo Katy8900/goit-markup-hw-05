@@ -573,6 +573,10 @@ img {
   background-color: #404bbf;
 }
 
+.icon-btn-subscribe {
+  fill: #fff;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
